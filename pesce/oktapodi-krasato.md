@@ -11,6 +11,8 @@ oppure battendolo con un martello.
 
 **Tempo di preparazione**: 1 ora (escludendo il tempo per ammorbidire il polipo)
 
+**Porzioni**: 4
+
 **Difficoltà**: semplice
 
 ## Ingredienti
