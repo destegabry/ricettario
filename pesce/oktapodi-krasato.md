@@ -9,7 +9,9 @@ in questo modo i raggi solari sfibrano e rendono più morbida la carne.
 In alternativa, possiamo ammorbidire la carne tenendo il polipo 1 notte in congelatore
 oppure battendolo con un martello.
 
-**Tempo di preparazione**: 1 ora
+**Tempo di preparazione**: 1 ora (escludendo il tempo per ammorbidire il polipo)
+
+**Difficoltà**: semplice
 
 ## Ingredienti
 
