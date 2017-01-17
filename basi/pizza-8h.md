@@ -11,9 +11,15 @@ Ricetta base pizza a lievitazione media (8 ore).
 ## Ingredienti
 
 - Farina 00 Caputo Blu, *1,6 kg*
-- Acqua tiepida, *1 litro*
+- Acqua tiepida, (circa 60% idratazione, più idrati più è digeribile ma meno lavorabile e soprattutto dipende dall'umidità relativa) *960 gr*
+
 - Lievito di bitta, *2 gr*
 - Criscito (lievito madre disidratato), *60 gr*
+
+o in alternativa
+
+- 50 - 70 gr di pasta madre (ma aumentare la lievitazione a 24 ore)
+
 - Zucchero, *1/2 cucchiaino*
 - Sale, *40 gr*
 
