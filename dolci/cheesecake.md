@@ -1,4 +1,6 @@
-# Cheesecake
+# Cheesecake (senza cottura)
+
+Ricetta per cheesecake alla marmellata senza cottura.
 
 **Tempo di preparazione**: 30 minuti (+ 4 ore di riposo in frigorifero)
 
@@ -15,7 +17,7 @@
 - latte *30ml*
 - colla di pesce *3 fogli*
 - zucchero *120g*
-- marmellata *300g*
+- marmellata (ai mirtilli, frutti di bosco o fragole) *300g*
 - frutti di bosco (a piacere per guarnire)
 
 ## Preparazione
