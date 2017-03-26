@@ -29,7 +29,7 @@ fogli di carta assorbente
 2. Bagnare la mollica di pane con aceto di vino bianco e strizzarla, dopodichè preparare un trito omogeneo con
 la mollica, l'uovo sodo e pezzi di verdura dell'insalata giardiniera.
 
-3. Rimuovere i rametti dal prezzemolo e tritare finemente _a mano_ le foglie unite allo spicchio d'aglio
+3. Rimuovere i rametti dal prezzemolo e tritare finemente __a mano__ le foglie unite allo spicchio d'aglio
 
 4. Unire i due preparati e aggiungere olio d'oliva mescolando per ottenere una salsa chiamata *bagnet verd*
 
