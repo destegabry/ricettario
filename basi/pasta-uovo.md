@@ -1,4 +1,4 @@
-# Pasta all'uovo
+# Pasta all'uovo
 
 **Tempo di preparazione**: 15-30 minuti (+ 1 ora per il riposo)
 
