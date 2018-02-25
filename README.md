@@ -12,6 +12,10 @@ Non avendo un posto migliore dove scriverle, GitHub mi è sembrato un ottimo con
 
 - [Acciughe al verde](antipasti/acciughe-al-verde.md)
 
+## Carne
+
+- [Maialetto sardo](carne/maialetto-sardo.md)
+
 ## Pesce
 
 - [Oktapodi Krasato](pesce/oktapodi-krasato.md) (polipo brasato alla greca)
