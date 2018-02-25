@@ -1,8 +1,10 @@
 # Maialetto sardo
 
-Il maialetto sardo si prepara con maialetti da latte del peso di circa 7kg, tradizionalmente cotto su uno spiedo tenuto in piedi davanti al caminetto e girato di tanto in tanto.
+Si prepara con maialetti da latte del peso di circa 7kg, tradizionalmente cotti su uno spiedo tenuto in piedi davanti al caminetto, permettendo al grasso in eccesso di colare.
 
-![Foto maialetto sardo](../assets/maialetto-sardo.jpg "Maialetto sardo cotto allo spiedo davanti al caminetto")
+Questa ricetta propone la cottura nel forno elettrico.
+
+![Foto maialetto sardo](../assets/maialetto-sardo.jpg "Maialetti sardo cotto allo spiedo davanti al caminetto dell'agriturismo Su Gologone, Oliena (NU)")
 
 **Tempo di preparazione**: 2 ore 30 minuti
 
@@ -28,10 +30,10 @@ Il maialetto sardo si prepara con maialetti da latte del peso di circa 7kg, trad
 
 5. Ultimare la cottura con 30 minuti di grill
 
-6. Tagliare la carne con un trinciapollo, prestando attenzione a non spezzare le ossa. Servire in una grande teglia mescolando la carne alle foglie di mirto per insaportire.
+6. Tagliare la carne con un trinciapollo, prestando attenzione a non spezzare le ossa. Servire in una grande teglia, mescolando la carne alle foglie di mirto per insaporire.
 
 ## Note
 
-Il maialetto non va mai girato per rendere la cotenna croccante. 
+Il maialetto non va mai girato per rendere la cotenna croccante. Non aggiungere sale dopo il taglio della carne.
 
 Per verificare la cottura, inserire a fondo la lama di un coltello e rimuoverlo subito: se la punta del coltello è calda la carne sarà ben cotta.
