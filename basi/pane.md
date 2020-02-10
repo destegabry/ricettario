@@ -1,4 +1,4 @@
-# Pane (Con lievito madre)
+# Pane (con lievito madre)
 
 **Tempo di preparazione**: 15 min (escludendo il tempo di riposo e lievitazione) + 40 minuti di cottura
 
