@@ -8,6 +8,7 @@ Non avendo un posto migliore dove scriverle, GitHub mi è sembrato un ottimo con
 
 - [Pizza](basi/pizza-8h.md) (8 ore di lievitazione)
 - [Pasta all'uovo](basi/pasta-uovo.md)
+- [Pane](basi/pane.md)
 
 ## Antipasti
 
@@ -24,3 +25,5 @@ Non avendo un posto migliore dove scriverle, GitHub mi è sembrato un ottimo con
 ## Dolci
 
 - [Cheesecake](dolci/cheesecake.md) (senza cottura)
+- [Torta Camilla](dolci/torta-camilla.md)
+- [Tiramisù](dolci/tiramisu.md)
