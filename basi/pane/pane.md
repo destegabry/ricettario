@@ -32,14 +32,21 @@ Per il pane:
 
 4. Mettere l'impasto nella planetaria e aggiungere acqua un po' per volta
 
+![Impasto nella planetaria](../pane/planetaria.jpg "Impasto nella planetaria")
+
 5. Lasciare impastare per almeno 15 minuti
 
 6. Aggiustare l'impasto con le mani ripiegandolo su sè stesso, in modo da creare un po' di aria tra le pieghe ed avendo cura di non rompere troppo la "pellicola" esterna
 
+![Preparazione forma](../pane/forma.jpg "Preparazione forma")
+
 7. Lasciar lievitare al caldo a piacere (una notte intera, 8 ore)
+
+![Lievitazione](../pane/lievitazione.jpg "lievitazione")
 
 8. Cuocere in forno statico per 40 minuti a 200°, finché il pane non forma una crosta dorata
 
+![Pane cotto](../pane/pane-cotto.jpg "Pane dopo la cottura")
 
 ## Note
 

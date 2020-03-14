@@ -4,7 +4,7 @@ Si prepara con maialetti da latte del peso di circa 7kg, tradizionalmente cotti 
 
 Questa ricetta propone la cottura nel forno elettrico.
 
-![Foto maialetto sardo](../assets/maialetto-sardo.jpg "Maialetti sardo cotto allo spiedo davanti al caminetto dell'agriturismo Su Gologone, Oliena (NU)")
+![Foto maialetto sardo](../maialetto-sardo/maialetto-sardo.jpg "Maialetti sardo cotto allo spiedo davanti al caminetto dell'agriturismo Su Gologone, Oliena (NU)")
 
 **Tempo di preparazione**: 2 ore 30 minuti
 

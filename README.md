@@ -8,7 +8,7 @@ Non avendo un posto migliore dove scriverle, GitHub mi è sembrato un ottimo con
 
 - [Pizza](basi/pizza-8h.md) (8 ore di lievitazione)
 - [Pasta all'uovo](basi/pasta-uovo.md)
-- [Pane](basi/pane.md)
+- [Pane](basi/pane/pane.md)
 
 ## Antipasti
 
@@ -16,7 +16,7 @@ Non avendo un posto migliore dove scriverle, GitHub mi è sembrato un ottimo con
 
 ## Carne
 
-- [Maialetto sardo](carne/maialetto-sardo.md)
+- [Maialetto sardo](carne/maialetto-sardo/maialetto-sardo.md)
 
 ## Pesce
 
