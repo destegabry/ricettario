@@ -46,4 +46,4 @@ Spennelliamo la superficie con qualche goccia d'olio extravergine. Si può mangi
 
 Fonte: [Il nostro ricettario](http://ilnostroricettario.blogspot.com/2010/02/focaccia-alla-genovese-col-lievito.html)
 
-Grazie a @ubidefeo
+Grazie a [ubidefeo](http://ubidefeo.com/)
