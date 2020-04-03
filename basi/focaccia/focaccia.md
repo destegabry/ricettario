@@ -34,6 +34,8 @@ Distribuiamo sulla superficie del sale grosso e mettiamo al caldo, cioè fra 27 
 
 Dopo un'ora distribuiamo un po' d'olio su tutta la superficie e pigiando a fondo i polpastrelli formiamo le classiche fossette. Versiamo sulla superficie anche mezzo bicchiere d'acqua tiepida e rimettiamo al caldo per 1 ora e 50 minuti.
 
+![Focaccia pronta per il forno](pre_cottura.jpg "Focaccia pronta per il forno")
+
 Poco prima che termini questo tempo portiamo il forno a 250 gradi. Se avevamo già messo la focaccia nel forno spento per tenerla al caldo, la toglieremo con delicatezza facendo attenzione alle correnti d'aria.
 
 Inforniamo nel forno a 250 gradi abbassando subito a 230 gradi e cuociamo per circa 15 minuti dopo di che facciamo colorire per qualche minuto col grill.
