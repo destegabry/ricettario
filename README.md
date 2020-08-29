@@ -28,3 +28,4 @@ Non avendo un posto migliore dove scriverle, GitHub mi è sembrato un ottimo con
 - [Cheesecake](dolci/cheesecake.md) (senza cottura)
 - [Torta Camilla](dolci/torta-camilla.md)
 - [Tiramisù](dolci/tiramisu.md)
+- [Torta di mele](dolci/torta-mele.md)
