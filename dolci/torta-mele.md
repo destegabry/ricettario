@@ -5,7 +5,7 @@
 - zucchero *120g*
 - uova *3*
 - burro *100g*
-- mele *2g*
+- mele *2*
 - lievito *1 bustina*
 - latte *1 bicchiere*
 - farina *250g*
