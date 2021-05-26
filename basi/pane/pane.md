@@ -8,13 +8,15 @@
 
 ## Ingredienti
 
-Per rinfrescare il lievito: 
+Per rinfrescare il lievito:
+
 - lievito madre *200g*
 - farina 0 *200g*
 - acqua tiepida *200g*
 - 1 cucchiaio di zucchero
 
 Per il pane:
+
 - Metà del lievito rinfrescato
 - farina 0 *400g*
 - semola *200g*
@@ -34,7 +36,7 @@ Per il pane:
 
 ![Impasto nella planetaria](../pane/planetaria.jpg "Impasto nella planetaria")
 
-5. Lasciare impastare per almeno 15 minuti
+5. Lasciare riposare per almeno 15 minuti
 
 6. Aggiustare l'impasto con le mani ripiegandolo su sè stesso, in modo da creare un po' di aria tra le pieghe ed avendo cura di non rompere troppo la "pellicola" esterna
 
