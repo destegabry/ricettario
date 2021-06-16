@@ -30,3 +30,4 @@ Non avendo un posto migliore dove scriverle, GitHub mi è sembrato un ottimo con
 - [Torta Camilla](dolci/torta-camilla.md)
 - [Tiramisù](dolci/tiramisu.md)
 - [Torta di mele](dolci/torta-mele.md)
+- [Cookies](/dolci/cookies.md)
