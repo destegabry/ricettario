@@ -1,5 +1,7 @@
 # Torta camilla (alle carote)
 
+![Foto Torta Camilla](./torta-camilla.jpeg "")
+
 **Tempo di preparazione**: 30 minuti (+ 1 ora / 1 ora e mezza di cottura)
 
 **Porzioni**: 6
