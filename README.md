@@ -31,3 +31,4 @@ Non avendo un posto migliore dove scriverle, GitHub mi è sembrato un ottimo con
 - [Tiramisù](dolci/tiramisu.md)
 - [Torta di mele](dolci/torta-mele.md)
 - [Cookies](/dolci/cookies.md)
+- [Budino di cachi e cacao](/dolci/budino-cachi-cacao.md)
