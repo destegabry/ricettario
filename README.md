@@ -7,7 +7,8 @@ Non avendo un posto migliore dove scriverle, GitHub mi è sembrato un ottimo con
 ## Basi
 
 - [Pizza](basi/pizza-8h.md) (8 ore di lievitazione)
-- [Focaccia](basi/focaccia/focaccia.md)
+- [Focaccia](basi/focaccia/focaccia.md) (lievito madre)
+- [Focaccia](basi/focaccia-veloce.md) (lievito di birra)
 - [Pasta all'uovo](basi/pasta-uovo.md)
 - [Pane](basi/pane/pane.md)
 - [Pane senza impasto cotto in pentola di ghisa](basi/pane-senza-impasto-ghisa.md)
